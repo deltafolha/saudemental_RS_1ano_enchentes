@@ -39,6 +39,9 @@ Para a análise dos Caps, os dados foram filtrados já de início pela CID "F" e
 - **Análise**: Cálculo de médias mensais de atendimentos antes e depois das enchentes, por município e diagnóstico.
 - **Visualização**: Gráficos e tabelas comparando períodos e destacando variações relevantes.
 
+## O que eu preciso saber para reproduzir?
+O código é todo feito em Python, usando principalmente as libs PySUS, Pandas e DuckDB, além de querys feitas em SQL.
+
 ## Resultados
 
 - Tabelas e gráficos mostram o aumento (ou redução) de atendimentos de saúde mental após as enchentes, com destaque para diagnósticos mais frequentes.
